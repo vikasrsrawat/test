@@ -3,7 +3,7 @@
 //  AtrributedString
 //
 //  Created by Admin on 05/08/16.
-//  Copyright © 2016 Paymate. All rights reserved.
+//  Copyright © 2016 Vikas. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
